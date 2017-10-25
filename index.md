@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Biped project
 
-You can use the [editor on GitHub](https://github.com/distortenterprises/biped/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Lat year I bought a Biped Fighter robot from Dongbu Robotics in South Korea. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
